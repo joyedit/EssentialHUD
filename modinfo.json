@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "essentialhud",
+  "name": "Essential HUD",
+  "authors": ["Feyd"],
+  "description": "Displays essential player information: real-time clock, block info, and depth/elevation indicator.",
+  "version": "1.0.0",
+  "clientSideOnly": true,
+  "dependencies": {
+    "game": "*"
+  }
+}
